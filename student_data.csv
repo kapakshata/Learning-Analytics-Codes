@@ -1,0 +1,11 @@
+Age,Study_Hours,Attendance_Percentage,Previous_Grade,Target
+18,2,75,60,Pass
+19,3,80,65,Pass
+20,4,85,70,Pass
+18,5,90,75,Pass
+21,3,70,68,Pass
+22,6,95,80,Pass
+19,2,60,55,Fail
+20,4,88,72,Pass
+21,5,92,85,Pass
+18,3,78,66,Pass
